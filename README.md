@@ -4,7 +4,5 @@
 </p>
 
 ## 最近更新
-- [解读爆火的Manus：AI从"建议者"到"执行者"的跨越](https://github.com/Daotin/issue-blog/issues/8)--2025-03-07
-- [跨域的时候，post为什么会发送两次请求？](https://github.com/Daotin/issue-blog/issues/7)--2024-08-20
-## javascript
-- [跨域的时候，post为什么会发送两次请求？](https://github.com/Daotin/issue-blog/issues/7)--2024-08-20
+- [Bun 简介：它是什么，以及适合用在哪里
+](https://github.com/Daotin/issue-blog/issues/9)--2025-12-03

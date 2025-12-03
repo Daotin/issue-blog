@@ -1,170 +1,157 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Daotin/issue-blog</id><title>RSS feed of Daotin's issue-blog</title><updated>2025-03-07T04:44:41.042069+00:00</updated><link href="https://github.com/Daotin/issue-blog"/><link href="https://raw.githubusercontent.com/Daotin/issue-blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/Daotin/issue-blog/issues/8</id><title>解读爆火的Manus：AI从"建议者"到"执行者"的跨越</title><updated>2025-03-07T04:44:41.223199+00:00</updated><content type="html"><![CDATA[<p>在人工智能快速发展的2025年，有一个名字正在科技圈引发热议——Manus。这款被誉为&quot;AI代理的GPT时刻&quot;的产品到底是什么？为什么会在短时间内爆火？它与传统AI助手有何不同？本文将为你揭开Manus的神秘面纱，带你了解AI领域的这一突破性进展。</p>
-<h2>Manus是什么？</h2>
-<p>Manus是由中国AI初创公司Monica.im团队于2025年3月推出的全球首款<strong>通用型AI Agent</strong>（人工智能代理）。其名称源自拉丁语&quot;Mens et Manus&quot;（手脑并用），强调&quot;知行合一&quot;的设计理念。</p>
-<p>与传统AI助手仅提供建议或答案不同，Manus的核心定位是实现从&quot;建议者&quot;到&quot;执行者&quot;的跨越。它能够独立完成从目标设定、任务分解、工具调用到成果交付的<strong>全链路闭环执行</strong>。</p>
-<p>简单来说，Manus就像是一个高效的&quot;数字实习生&quot;，你可以分配任务后让它独立完成，无需持续跟进和指导。</p>
-<h2>Manus与传统AI Agent的区别</h2>
-<p>要理解Manus的革命性，我们需要先了解它与传统AI助手的关键区别：</p>
-<table>
-<thead>
-<tr>
-<th><strong>维度</strong></th>
-<th><strong>传统AI Agent</strong></th>
-<th><strong>Manus</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>目标设定</strong></td>
-<td>依赖用户明确指令，只能完成单一任务（如回答问题、生成文本）</td>
-<td>支持模糊目标输入（如&quot;帮我分析特斯拉股票&quot;），自主拆解子任务并动态调整优先级</td>
-</tr>
-<tr>
-<td><strong>执行逻辑</strong></td>
-<td>基于预编程规则或简单推理，缺乏复杂决策能力</td>
-<td>采用&quot;规划-执行-验证&quot;多代理架构，模拟人类专家的工作流程，支持跨工具调用与异步处理</td>
-</tr>
-<tr>
-<td><strong>交互模式</strong></td>
-<td>需用户全程参与（如逐步骤确认），输出形式单一（通常是文本/建议）</td>
-<td>云端独立运行，用户可离线等待结果，支持多模态输出（Excel表格、HTML网站、视频等）</td>
-</tr>
-<tr>
-<td><strong>学习能力</strong></td>
-<td>依赖监督学习，需大量标注数据更新模型</td>
-<td>基于用户反馈自主学习优化策略，形成个性化协作模式</td>
-</tr>
-</tbody></table><h2>Manus的实际应用场景</h2>
-<p>Manus的功能涵盖多个领域，让我们通过几个具体例子来理解它的能力：</p>
-<ol>
-<li>
-<p><strong>简历筛选</strong>：Manus可以接收包含10份简历的压缩文件，自动解压、审查简历内容、生成候选人排名和评估，最终输出一份完整的Excel表格报告。</p>
-</li>
-<li>
-<p><strong>股票分析</strong>：用户只需提出&quot;帮我深入分析特斯拉股票&quot;这样的模糊请求，Manus会自动调用API获取数据、创建可视化仪表盘并部署分析网站。</p>
-</li>
-<li>
-<p><strong>旅行规划</strong>：当你计划&quot;4月日本旅行&quot;时，Manus能设计个性化行程并生成定制旅行手册，包括路线、景点介绍和交通信息。</p>
-</li>
-<li>
-<p><strong>教育资源创建</strong>：为中学教师自动创建关于动量定理的视频演示材料，从内容规划到最终制作全程自动完成。</p>
-</li>
-</ol>
-<h2>Manus与OpenAI的Deep Research比较</h2>
-<p>在2025年2月，OpenAI推出了Deep Research，同样是AI Agent领域的重要产品。这两者有何异同？</p>
-<p><strong>技术路线对比</strong>：</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Daotin/issue-blog</id><title>RSS feed of Daotin's issue-blog</title><updated>2025-12-03T14:35:08.072944+00:00</updated><link href="https://github.com/Daotin/issue-blog"/><link href="https://raw.githubusercontent.com/Daotin/issue-blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/Daotin/issue-blog/issues/9</id><title>Bun 简介：它是什么，以及适合用在哪里
+</title><updated>2025-12-03T14:35:08.390893+00:00</updated><content type="html"><![CDATA[<p>Bun 是一个新一代 JavaScript 运行时和工具链，目标很明确：<strong>把运行、装包、打包、测试合在一个高性能工具里完成</strong>。<br />
+相比传统的 Node + 各种第三方工具组合，Bun 更像是“集成式、一体化”的解决方案。</p>
+<hr />
+<h2>Bun 和 Node 的核心区别</h2>
+<p>Node.js 建在 V8 引擎上，定位是稳定可靠的 JavaScript 运行时，生态成熟，标准事实地位非常稳固。<br />
+包管理、打包、测试等能力都由 npm、webpack、vite、jest 等外部工具补充。</p>
+<p>Bun 使用 JavaScriptCore（Safari 的 JS 引擎）+ Zig 实现，定位是<strong>一体化高性能平台</strong>：</p>
 <ul>
-<li><strong>Deep Research</strong>：聚焦<strong>深度信息挖掘与整合</strong>，通过端到端强化学习优化多步骤研究轨迹，适用于学术研究、政策分析等知识密集型场景。</li>
-<li><strong>Manus</strong>：强调<strong>全场景任务执行</strong>，整合Claude 3.5、DeepSeek等多模型协同系统，实现跨领域任务的动态分配与并行处理。</li>
+<li>自带运行时</li>
+<li>自带包管理（bun install）</li>
+<li>自带打包器（bun build）</li>
+<li>自带测试框架（bun test）</li>
 </ul>
-<p><strong>应用场景对比</strong>：</p>
+<p>简单说：</p>
 <ul>
-<li><strong>Deep Research</strong>：主要面向专业研究领域（金融、科学、工程），用户需支付高额订阅费用（200美元/月），适合机构用户。</li>
-<li><strong>Manus</strong>：同时覆盖企业级（财报生成、供应链管理）与消费级（旅行规划、购房决策）场景，采用按需付费模式，更强调普惠性。</li>
+<li>Node 更像“基础设施标准”</li>
+<li>Bun 更像“效率至上工具链”</li>
 </ul>
-<p><strong>性能表现对比</strong>：</p>
+<hr />
+<h2>Bun 在 Vue / React 工程化中“作为运行时”是什么意思</h2>
+<p>这里说的不是浏览器里的 Vue Runtime，而是<strong>开发机与构建机上运行各种脚本的环境层</strong>。</p>
+<p>过去在 Vue 项目中，是 Node 在做这些事：</p>
 <ul>
-<li>在GAIA基准测试中（一个由Meta、Hugging Face等机构开发的评估AI助理在现实世界问题上表现的标准测试），Manus以全难度级别最高分超越Deep Research（72.57 vs. 63.64），尤其在工具调用和跨模态任务上优势显著。</li>
-<li>在最高难度级别（3级）上，差距更为明显，表明Manus在处理复杂企业用例方面可能更具优势。</li>
+<li>跑 vite / nuxt / vue-tsc / eslint / prettier</li>
+<li>启动 dev server</li>
+<li>执行 build 流程</li>
+<li>跑测试（vitest / jest / playwright）</li>
+<li>执行脚本：<code>node scripts/xxx.js</code></li>
 </ul>
-<p>不过，这一比较也存在争议。有观点认为Deep Research的设计目标可能与GAIA不完全匹配，因此性能差距不应过于令人惊讶。</p>
-<h2>Manus爆火的原因：技术创新与市场反应</h2>
-<p>Manus能在短时间内引发广泛关注，主要归功于以下几个方面：</p>
-<h3>1. 技术突破</h3>
-<ul>
-<li>
-<p><strong>多模型协同系统</strong>：通过多重签名（multisig）机制整合主流模型，动态分配子任务并并行处理，大幅提升效率。</p>
-</li>
-<li>
-<p><strong>全链路闭环能力</strong>：从指令理解到成果交付无需人工干预，支持异步执行（用户可离线等待结果）。</p>
-</li>
-<li>
-<p><strong>安全虚拟机环境</strong>：独立运行于云端虚拟机，确保数据隔离与任务可靠性。</p>
-</li>
-</ul>
-<h3>2. 用户体验革新</h3>
-<ul>
-<li>
-<p>打破传统AI的&quot;建议-执行&quot;割裂状态，直接交付可落地的成果（如生成投资报告网站），据称可节省用户90%的操作时间。</p>
-</li>
-<li>
-<p>支持跨领域任务处理（教育、金融、设计），灵活性远超单一功能型AI。</p>
-</li>
-<li>
-<p>用户可以实时跟踪任务进度，最终获得完整结果，这显著提高了工作效率。</p>
-</li>
-</ul>
-<h3>3. 市场与资本反应</h3>
-<ul>
-<li>
-<p>发布当日引发A股AI智能体概念股涨停（如汉得信息、蓝色光标），机构预测2030年中国AI产业规模破万亿。</p>
-</li>
-<li>
-<p>创始人肖弘的连续创业背景（曾推出用户破百万的Monica助手）与团队技术落地能力增强市场信心。</p>
-</li>
-<li>
-<p>市场反应热烈，其邀请码在二手交易平台上被炒至近10万元人民币，反映出巨大需求。</p>
-</li>
-</ul>
-<h2>Manus面临的争议与挑战</h2>
-<p>尽管Manus被视为AI Agent领域的里程碑，但仍面临一些质疑和挑战：</p>
-<ol>
-<li>
-<p><strong>技术真实性</strong>：部分观点认为其&quot;自主规划&quot;能力实为调用现有模型的组合，与Anthropic的&quot;ComputerUse&quot;架构相似，创新程度可能被夸大。</p>
-</li>
-<li>
-<p><strong>伦理风险</strong>：全自主执行可能引发职业替代危机（如HR岗位），且数据安全与责任归属问题尚未得到充分解决。</p>
-</li>
-<li>
-<p><strong>长期可靠性</strong>：作为新推出的产品，其长期稳定性和适应复杂变化环境的能力仍需时间验证。</p>
-</li>
-</ol>
-<h2>结语：AI时代的新里程碑</h2>
-<p>Manus的出现标志着AI技术从&quot;生成答案&quot;向&quot;闭环执行&quot;的范式升级，重新定义了人机协作的边界。它被一些人称为&quot;AI代理的GPT时刻&quot;或&quot;第二个DeepSeek时刻&quot;，不仅在技术上具有突破性，还在全球AI竞争中具有地缘政治意义，展示了非西方国家在AI领域的崛起。</p>
-<p>尽管仍需验证其长期稳定性和实际应用效果，但Manus在效率革命与商业化潜力上已展现出颠覆性价值。随着技术的进一步成熟和应用场景的扩展，我们有理由相信，像Manus这样的通用AI代理将深刻改变人们的工作方式和生活方式。</p>
-<p>未来，我们可能会看到更多类似Manus的AI代理出现，它们将进一步模糊AI与人类工作的界限，推动人工智能从辅助工具向主动协作伙伴的转变。这不仅是技术的进步，更是人机交互模式的革命性变革。</p>
-]]></content><link href="https://github.com/Daotin/issue-blog/issues/8"/><published>2025-03-07T04:44:14+00:00</published></entry><entry><id>https://github.com/Daotin/issue-blog/issues/7</id><title>跨域的时候，post为什么会发送两次请求？</title><updated>2025-03-07T04:44:41.331120+00:00</updated><content type="html"><![CDATA[<h2>什么是预检请求？</h2>
-<p>想象你要去一个从未去过的国家旅行。在真正踏上旅程之前，你可能会先打电话给那个国家的海关，问问你是否可以入境，需要带什么证件，是否需要签证等。这个打电话询问的过程，就像是预检请求。</p>
-<p>在网络世界中，当你的网页想要访问另一个网站的数据（这就是所谓的跨源请求）时，浏览器有时会先发送一个&quot;预检请求&quot;，就是在问那个网站：&quot;嘿，我可以用这种方式访问你的数据吗？&quot;</p>
-<p><strong>预检请求是浏览器在发送实际的跨源请求之前，先向服务器发送的一个特殊的OPTIONS请求，用于检查实际请求是否安全可接受。</strong></p>
-<h2>为什么会有预检请求？</h2>
-<ul>
-<li>安全考虑：就像国家要控制谁可以入境一样，网站也需要控制谁可以访问它们的数据。</li>
-<li>保护隐私：预检请求不会包含实际的数据，就像你打电话询问入境要求时，不需要提供你的全部个人信息。</li>
-<li>避免麻烦：如果直接发送可能不被允许的请求，就像直接飞到一个国家却被拒绝入境，这样会很麻烦。</li>
-</ul>
-<p><strong>预检请求的存在是为了增加浏览器和服务器之间交互的安全性，防止恶意的跨域请求滥用用户身份信息或对服务器资源造成威胁。这是一种保护机制，确保只有经过服务器许可的跨域请求才会被执行。</strong></p>
-<h2>哪些情况会发起预检请求？</h2>
+<p>当 Bun 作为运行时，本质只是：</p>
 <blockquote>
-<p>[!tip]</p>
-<ul>
-<li>同源请求：不需要预检，无论请求多么特殊。</li>
-<li>跨源请求：可能需要预检，取决于请求的具体特征。</li>
-</ul>
+<p>把“这些原来由 Node 跑的命令”，换成由 Bun 来跑。</p>
 </blockquote>
-<p>对于同源请求，即使请求很特殊，也不会触发预检请求。这是因为同源策略（Same-Origin Policy）本身就是一种安全机制，浏览器默认信任来自同一源的请求。</p>
-<p>比如，</p>
+<p>对应关系大致是：</p>
+<p>之前：Node + npm/pnpm + Vite 现在：Bun  + bun install + Vite</p>
+<p>Vue 仍然跑在浏览器的 JS 引擎里，Vite 仍然负责构建，只是<strong>底层执行命令的运行时从 Node 换成了 Bun</strong>。</p>
+<p>好处主要是三点：</p>
 <ul>
-<li>使用特殊的&quot;旅行方式&quot;：如果你想骑大象入境（比喻使用 PUT, DELETE 等特殊的 HTTP 方法），而不是普通的步行（GET, POST），海关可能会要求你提前通知。</li>
-<li>携带特殊物品：如果你想带一些特殊的物品入境（比如使用自定义的 HTTP 头部，例如，自定义的X-Custom-Header或Authorization ），也需要提前询问。</li>
-<li>特殊的行李包装：如果你的行李包装方式很特别（比如，如果Content-Type请求头的值不是以下三种之一，<code>application/x-www-form-urlencoded</code>，<code>multipart/form-data</code>，<code>text/plain</code>，比如发送 application/json 数据），也可能需要预先检查。</li>
+<li><code>bun install</code> 更快  </li>
+<li><code>bun run</code> 启动更快  </li>
+<li>整体开发链路更轻、更简单  </li>
 </ul>
-<p>举个具体的例子：</p>
-<p>假设你有一个网页游戏，需要向另一个网站的服务器发送玩家的高分数据。</p>
-<pre><code class="language-js">fetch(&#x27;https://other-website.com/api/scores&#x27;, {
-  method: &#x27;POST&#x27;,
-  headers: {
-    &#x27;Content-Type&#x27;: &#x27;application/json&#x27;,
-    &#x27;X-Player-Id&#x27;: &#x27;12345&#x27;
-  },
-  body: JSON.stringify({ score: 1000 })
-})
-</code></pre>
-<p>这个请求会触发预检，因为：</p>
+<p>结构不变，只是把“发动机”升级了。</p>
+<hr />
+<h2>Bun 的打包能力（Bun Bundler）</h2>
+<p>Bun 内置 bundler，可以直接用来打包 JS / TS / JSX / ESM 代码。</p>
+<p>核心特点很清晰：</p>
 <ul>
-<li>它使用了自定义头部（X-Player-Id）</li>
-<li>它发送的是 JSON 数据</li>
+<li>默认支持压缩（minify）、tree-shaking、代码拆分</li>
+<li>支持 Source Map</li>
+<li>构建速度极快（接近甚至超过 esbuild）</li>
+<li>几乎零配置</li>
+<li>可输出为浏览器代码或服务端代码</li>
 </ul>
-<p>浏览器会先发送一个 OPTIONS 请求（预检请求），询问服务器是否允许这样的请求。如果服务器答应了，真正的 POST 请求才会被发送。</p>
-]]></content><link href="https://github.com/Daotin/issue-blog/issues/7"/><category term="javascript"/><published>2024-08-20T02:19:14+00:00</published></entry></feed>
+<p>典型用法：</p>
+<pre><code class="language-bash">bun build src/index.ts --outdir=dist --minify
+
+适合用来打包：
+
+- JS / TS 工具脚本
+
+- CLI 程序
+
+- SDK / 工具库
+
+- 原生 HTML + JS 前端页面
+
+- 简单 SPA 应用
+
+
+它不是为 Vue / React 专门设计的，而是一个高性能“通用打包器”。
+
+
+---
+
+Bun 和 esbuild 的区别
+
+Bun Bundler 和 esbuild 在定位上非常接近：快 + 轻 + 实用主义。
+
+相同点：
+
+- 都非常快（毫秒～秒级）
+
+- 都支持打包、压缩、tree-shaking
+
+- 都覆盖 90% 的实际构建需求
+
+
+差异点：
+
+维度	Bun	 esbuild
+
+定位  	一体化平台的一部分	  专业打包器
+生态	  还在成长	  非常成熟
+插件系统  	较弱	  很强
+被集成度  	较少	  被 Vite 等大量采用
+可替代性	  强（需要适配）	  非常稳妥
+
+
+结论很直接：
+
+- 单独拿来打包：Bun ≈ 下一代 esbuild
+
+- 作为构建体系的核心：目前 esbuild 更稳
+
+
+
+---
+
+Bun 在现代前端中的主要应用场景
+
+真正适合 Bun 发力的地方很明确：
+
+- 构建 JS / TS 小工具
+
+- 打包 CLI 工具
+
+- 构建脚本类项目
+
+- 原生前端项目打包
+
+- 内部工具、自动化流程
+
+- 极度追求速度的构建链路
+
+
+不太适合直接作为核心构建器的场景：
+
+- 大型 Vue / React 企业级项目
+
+- 强依赖插件生态的复杂工程
+
+- 大量使用 Node 原生模块的系统
+
+
+在这些项目里，更成熟的选择仍然是：
+
+Bun（运行时 + 包管理） + Vite / Next / Nuxt（构建体系）
+
+而不是用 Bun bundler 直接全面替代它们。
+
+
+---
+
+总结
+
+一句话概括：
+
+Node 是标准与稳定的“地基”
+Bun 是效率与集成的“加速器”
+
+它不一定会取代 Node，但已经在重新定义前端工具链的效率标准。
+
+当前阶段，最务实的用法是：把 Bun 当作高性能引擎接入现有体系，而不是推倒重来。</code></pre>
+]]></content><link href="https://github.com/Daotin/issue-blog/issues/9"/><published>2025-12-03T14:34:40+00:00</published></entry></feed>
